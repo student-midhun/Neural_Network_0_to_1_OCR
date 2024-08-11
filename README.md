@@ -63,4 +63,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This project is inspired by the need to understand the inner workings of neural networks, particularly in the context of OCR. Special thanks to the Aditya Dikonda (https://github.com/Adityadikonda10 ) and educators whose work in the machine learning community made this project possible.
+This project is inspired by the need to understand the inner workings of neural networks, particularly in the context of OCR. Special thanks to the Aditya Dikonda [Adityadikonda10] https://github.com/Adityadikonda10  and educators whose work in the machine learning community made this project possible.
